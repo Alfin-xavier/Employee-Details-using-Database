@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-16T13:47:37 IST" name="Default suite" finished-at="2020-10-16T13:47:38 IST" duration-ms="890">
+    <groups>
+    </groups>
+    <test started-at="2020-10-16T13:47:37 IST" name="Default test" finished-at="2020-10-16T13:47:38 IST" duration-ms="890">
+      <class name="com.atmecs.employee_details.tests.Employee_Datails">
+        <test-method signature="getData()[pri:0, instance:com.atmecs.employee_details.tests.Employee_Datails@47542153]" started-at="2020-10-16T13:47:37 IST" name="getData" finished-at="2020-10-16T13:47:38 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.atmecs.employee_details.tests.Employee_Datails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
