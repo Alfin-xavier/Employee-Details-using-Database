@@ -6,8 +6,6 @@
       <class name="com.atmecs.employee_details.tests.Employee_Datails">
         <methods>
           <include name="getData"/>
-          <include name="beforeTest"/>
-          <include name="afterTest"/>
         </methods>
       </class> <!-- com.atmecs.employee_details.tests.Employee_Datails -->
     </classes>
