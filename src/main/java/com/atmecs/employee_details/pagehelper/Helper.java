@@ -45,10 +45,12 @@ public class Helper
 			 driver.findElement(By.xpath("//input[@id='email']")).sendKeys(rs.getString("e_mail"));
 			 driver.findElement(By.xpath("//input[@id='pass']")).sendKeys(rs.getString("emp_name"));
 			 driver.findElement(By.xpath("//button[@name='login']")).click();
+			 
+			 driver.close();
 		 }
         con.close();
         
-
+        
 	}
 	
 }
